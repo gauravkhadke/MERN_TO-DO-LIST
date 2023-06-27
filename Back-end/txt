@@ -1,0 +1,1 @@
+mongodb://gauravkhadke63:xyz12@ac-dxzvt8m-shard-00-00.kcskuxv.mongodb.net:27017,ac-dxzvt8m-shard-00-01.kcskuxv.mongodb.net:27017,ac-dxzvt8m-shard-00-02.kcskuxv.mongodb.net:27017/?ssl=true&replicaSet=atlas-dvudas-shard-0&authSource=admin&retryWrites=true&w=majority
